@@ -1,4 +1,6 @@
-[MAIN]
+Value
+Marshal
+(MAIN]
 #配置文件版本，当版本改变时重新读取配置
 VERSION=101
 #列数(横)
